@@ -1,3 +1,3 @@
-Assignment Title: Studio 1.1
-Prompt:
-Reflection Link:
+Assignment Title: Visual Studio 1.1: The Sci-Fi Film Poster Challenge
+Prompt: Create a sci-fi blockbuster poster that shows aliens descending from Earth's atmosphere invading a science lab of significance to the humans. Make the focal point a red headed women (scientist) grabbed by an alien while all the ruckus happens in the back. Make the colors pop out, very neon green and blue. Add some sort of slime and make the aliens look green as well. Use sharp and irregular lines to intensify the invasion. Make sure the focal point is larger and the rest in the back is smaller but still intense. The shape of the things further back can just be shapes that display more aliens arriving. Make sure the slime looks heavy and gooey. It has heavy volume. The aliens must have gooey and rough skin. Shine a light at the focal point that is from the UFO. They are invading a science lab so make sure they are inside and there is lab equipment around. also add more humans in the back. Make sure to lighten up focal point.
+Reflection Link: 
